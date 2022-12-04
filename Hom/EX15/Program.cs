@@ -15,5 +15,5 @@
  }
  else
  {
-  Console.WriteLine ("день выходной");
+  Console.WriteLine ("день выходной"); 
  }

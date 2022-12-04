@@ -19,7 +19,7 @@ int n = 78;
  {
     Console.WriteLine ("Третьей цифры нет");
  }
-
+ 
  
 
 
